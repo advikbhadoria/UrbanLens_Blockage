@@ -2,3 +2,9 @@ venv/
 __pycache__/ 
 *.pyc 
 runs/ 
+*.mp4 
+*.avi 
+venv/ 
+__pycache__/ 
+*.pyc 
+runs/ 
